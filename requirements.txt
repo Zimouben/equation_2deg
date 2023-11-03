@@ -1,4 +1,4 @@
-mathplotlib.pyplot == 0.2.2
+matplotlib.pyplot == 0.2.2
 streamlit == 1.28.1
 math == 1.1
 Pillow == 10.1.0
